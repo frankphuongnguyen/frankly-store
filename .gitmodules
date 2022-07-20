@@ -1,0 +1,6 @@
+[submodule "frankly-store-frontend"]
+	path = frankly-store-frontend
+	url = git@github.com:frankphuongnguyen/frankly-store-frontend.git
+[submodule "frankly-store-backend"]
+	path = frankly-store-backend
+	url = git@github.com:frankphuongnguyen/frankly-store-backend.git
